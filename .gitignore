@@ -1,0 +1,12 @@
+# Local configuration (ไม่ต้อง push ขึ้น GitHub)
+.env
+config.local.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
